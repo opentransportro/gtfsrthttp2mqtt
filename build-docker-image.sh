@@ -1,5 +1,5 @@
 #!/bin/bash
-ORG=${ORG:-hsldevcom}
+ORG=${ORG:-opentransport}
 DOCKER_IMAGE=gtfsrthttp2mqtt
 
 DOCKER_TAG="ci-${TRAVIS_COMMIT}"
